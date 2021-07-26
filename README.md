@@ -10,3 +10,11 @@ custom mechanical keyboards design
 60% keyboard layer including a NumPad located at the South Paw.
 
 ![60-paw](60-paw.png)
+
+## the slimmest
+
+The slimmest keyboard for those masochists who still prefer the staggered layout.
+
+![The slimmest keyboard 1](slimmest1.png)
+
+![The slimmest keyboard 2](slimmest2.png)
