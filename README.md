@@ -1,6 +1,10 @@
 # keyboards
 custom mechanical keyboards design
 
+## 100110B
+
+The wonderful ortholinear mechanical keyboard [100110B](https://github.com/slady/100110B).
+
 ## 60-60 keyboard
 60 keys ona a 60% form factor
 
