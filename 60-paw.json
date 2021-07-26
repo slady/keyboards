@@ -1,0 +1,5 @@
+["Esc\n`\n~","!\n1\nF1","@\n2\nF2","#\n3\nF3","$\n4\nF4","%\n5\nF5","^\n6\nF6","&\n7\nF7","*\n8\nF8","(\n9\nF9",")\n0\nF10","_\n-\nF11","+\n=\nF12",{w:2},"Backspace\nDelete"],
+[{w:1.5},"Tab","Q","W","E\n7","R\n8","T\n9","Y\nPgUp","U\nHome","I\n↑","O\nEnd","P\nPrtSc","{\n[\n<i class=\"fa fa-volume-down\"></i>","}\n]\n<i class=\"fa fa-volume-up\"></i>",{w:1.5},"|\n\\\n<i class=\"fa fa-volume-off\"></i>"],
+[{w:1.75},"<i class='fa fa-star-o'></i> Super <i class='fa fa-paw'></i>","A","S\nScroll Lock","D\n4","F\n5","G\n6","H\nPgDn","J\n←","K\n↓","L\n→",":\n;","\"\n'",{w:2.25},"Enter\nInsert"],
+[{w:2.25},"Shift","Z\nCaps Lock","X\nPause Break","C\n1","V\n2","B\n3","N\nNum Lock","M\n<i class='fa fa-heart-o'></i>\n<i class='fa fa-square'></i>","<\n,\n<i class='fa fa-fast-backward'></i>",">\n.\n<i class='fa fa-fast-forward'></i>","?\n/\n<i class='fa fa-toggle-right'></i>",{w:2.75},"Shift"],
+[{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{w:6.25},"<i class='fa fa-keyboard-o'></i> 0",{w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"]
