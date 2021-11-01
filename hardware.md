@@ -8,4 +8,4 @@
 ** Visual Area: 152.30x16.70mm
 ** Active Area: 147.50x11.50mm
 
-*[ESP32 US $5.43](https://www.aliexpress.com/item/1005001929935550.html)
+* [ESP32 US $5.43](https://www.aliexpress.com/item/1005001929935550.html)
