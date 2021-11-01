@@ -3,6 +3,7 @@
 ** Outline Dimension:146.00(W)x62.50(H)x13.50(T)mm
 ** Visual Area:123.50x43.00mm
 ** Active Area:118.84x38.47mm
+
 * [LCD4002](https://www.aliexpress.com/item/1704895535.html):
 ** Outline Dimension: 182.00(W)x33.50(H)x12.00/14.00(T)mm
 ** Visual Area: 152.30x16.70mm
