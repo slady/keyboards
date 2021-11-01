@@ -1,8 +1,10 @@
-* [LCD2004 US $5.08](https://www.aliexpress.com/item/32991449983.html)
-* [LCD2004 dimensions](https://www.aliexpress.com/item/1704861756.html):
+* [LCD 20x4 US $5.08](https://www.aliexpress.com/item/32991449983.html)
+* [LCD 20x4 dimensions](https://www.aliexpress.com/item/1704861756.html):
 ** Outline Dimension:146.00(W)x62.50(H)x13.50(T)mm
 ** Visual Area:123.50x43.00mm
 ** Active Area:118.84x38.47mm
+* [LCD 20x4 290 Kč dimensions 98mm](https://www.hwkitchen.cz/lcd-displej-20x4-modry-s-podsvetlenim/)
+* [LCD 20x4 US $4.96 98mm](https://www.aliexpress.com/item/1005001622095168.html)
 
 * [LCD4002](https://www.aliexpress.com/item/1704895535.html):
 ** Outline Dimension: 182.00(W)x33.50(H)x12.00/14.00(T)mm
