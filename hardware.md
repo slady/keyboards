@@ -1,4 +1,5 @@
-== Displays ==
+Displays
+=======
 * [LCD 20x4 US $5.08](https://www.aliexpress.com/item/32991449983.html)
 * [LCD 20x4 dimensions](https://www.aliexpress.com/item/1704861756.html):
   * Outline Dimension:146.00(W)x62.50(H)x13.50(T)mm
@@ -22,5 +23,11 @@
 * [TFT Touch LCD + SD reader](https://www.hwkitchen.cz/dotykovy-barevny-tft-lcd-displej-shield-3-5-palce-micro-sd-ctecka/)
   * 85,6 x 55,7 x 14,3 mm
 
-== MCU ==
+* [long strip display 8.8" $85.31](https://www.aliexpress.com/item/4001115081190.html)
+  * Pixel Format: 1920*480(RGB)
+  * Size: 231.3x64.3 mm
+  * Active Area: 218.88x54.72 mm
+
+MCU
+===
 * [ESP32 US $5.43](https://www.aliexpress.com/item/1005001929935550.html)
