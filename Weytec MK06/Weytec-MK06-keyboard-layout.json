@@ -1,0 +1,11 @@
+[{c:"#bc251e",a:6,w:2},"CANCEL",{c:"#00773a"},"PRINT",{c:"#bc251e"},"CONN DFLT",{x:1.5,c:"#aaaaaa",a:7},"","","","",{c:"#cccccc"},"","","","",{c:"#aaaaaa"},"","","","",{x:1.5,c:"#c87e74",a:6,w:2},"Interrupt",{a:4,w:2},"Cancel\nOrders"],
+[{c:"#f8c200",a:6},"CMDTY","INDEX","CRNCY","CLIENT",{x:15,c:"#7fa580",w:2},"Contact",{w:2},"Accept"],
+[{y:-0.75,x:5.5,c:"#727474",a:7,w:4,h:3},"Display 1",{w:4,h:3},"Display 2",{w:4,h:3},"Display 3"],
+[{y:-0.25,c:"#f8c200",a:6},"M-MKT","MUNI","PFD","EQUITY",{x:15,c:"#768e72"},"CMD Bid","R/UP Offer","R/DN I-Deal","Inst Cancel"],
+[{c:"#f8c200"},"GOVT","CORP","MTGE",{c:"#00773a"},"GO",{x:15,c:"#768e72",a:4,w:2},"Zone\nYOURS",{w:2},"FMT\nMINE"],
+[{y:0.75,c:"#cccccc"},"Esc\n\n\n\n\n\nQuit",{a:6},"WS1","WS2","WS3",{x:1.5,c:"#aaaaaa",a:7},"","","","",{c:"#cccccc"},"","","","",{c:"#aaaaaa"},"","","","",{x:1.5,c:"#cccccc",a:4},"Scr1\n\n\n\n\n\nWS4","Scr2\n\n\n\n\n\nWS5","Scr3\n\n\n\n\n\nWS6","Logoff\n\n\n\n\n\nSystem"],
+[{y:0.5},"¬\n`","!\n1","\"\n2","£\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace",{x:0.5},"PrtSc","Scroll Lock","Pause\nBreak",{x:0.5},"Num Lock","/","*","-"],
+[{c:"#7fa580",a:0,w:1.5},"Accept\n\n\n\nTab",{c:"#cccccc",a:4},"Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{x:0.25,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"Enter\n\n\n\n\n\n\n\n\n\nGo",{x:0.5},"Insert\n\n\n\nCOMMAND\n\n\n\n\n\nBUY","Home","PgUp\n\n\n\n\n\n\n\n\n\nSELL",{x:0.5},"7\nHome","8\n↑","9\nPgUp",{h:2},"+"],
+[{c:"#7fa580",a:0,w:1.75},"Contact\n\n\n\nCaps Lock",{c:"#cccccc",a:4},"A","S","D","F","G","H","J","K","L",":\n;","@\n'","~\n#",{x:1.75},"Delete\n\n\n\nDEL EOL\n\n\n\n\n\nQUOTE","End","PgDn",{x:0.5},"4\n←","5","6\n→"],
+[{w:1.25},"Shift","|\n\\","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:2.75},"Shift",{x:0.5},"Attach Detach","↑","Prev\n\n\n\n\n\nNext",{x:0.5},"1\nEnd","2\n↓","3\nPgDn",{h:2},"Enter"],
+[{c:"#c87e74",a:0,w:1.25},"Intrp\n\n\n\nCtrl",{c:"#cccccc",w:1.25},"ABBR\n\n\n\nWin",{a:4,w:1.25},"Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Alt Gr",{c:"#7fa580",a:0,w:1.25},"Deal\n\n\n\nWin",{c:"#c87e74",w:1.25},"End\n\n\n\nMenu\n\nContact",{c:"#cccccc",a:4,w:1.25},"Ctrl",{x:0.5},"←","↓","→",{x:0.5,w:2},"0\nIns",".\nDel"]
