@@ -1,5 +1,11 @@
 # keyboards
 custom mechanical keyboards design
+* P.U.K.E.
+* 100110B
+* TT60/60
+* Bivoj
+* Kazi 24x16
+* micro-switch-full-size
 
 ## 100110B
 
