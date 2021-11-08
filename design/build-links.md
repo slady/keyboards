@@ -11,3 +11,7 @@
 * USB VNC
   * [Android Raspberry Pi display over USB](https://joshuawoehlke.com/android-raspberry-pi-display-over-usb/)
   * [Android Device as Screen for rPi via USB & VNC](https://www.raspberrypi.org/forums/viewtopic.php?t=127971)
+* firmwares
+  * [QMK](https://qmk.fm/)
+  * [TMK](https://github.com/tmk/tmk_core)
+  * [ZMK](https://zmk.dev/)
