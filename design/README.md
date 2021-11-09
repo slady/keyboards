@@ -1,16 +1,3 @@
-# keyboards
-custom mechanical keyboards design
-* P.U.K.E.
-* 100110B
-* TT60/60
-* Bivoj
-* Kazi 24x16
-* micro-switch-full-size
-
-## 100110B
-
-The wonderful ortholinear mechanical keyboard [100110B](https://github.com/slady/100110B).
-
 ## 60-60 keyboard
 60 keys ona a 60% form factor
 
