@@ -1,11 +1,11 @@
 # keyboards
 [custom mechanical keyboards design](design)
-* P.U.K.E.
-* [100110B](https://github.com/slady/100110B)
+* TT12 or P.U.K.E.
+* [TT38 or 100110B](https://github.com/slady/100110B)
 * TT-60/60
-* Bivoj
-* Kazi 24x16
-* micro-switch-full-size
+* TT185 or SpaceShip
+* TT24x16 or StarShip
+* TT-micro or micro-switch-full-size
 
 # Keyboard inspiration
 * [Weytec MK06](Weytec-MK06)
