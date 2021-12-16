@@ -6,6 +6,7 @@
 * TT185 or SpaceShip
 * TT24x16 or StarShip
 * TT-micro or micro-switch-full-size
+* [The ortholinear keyboard layout](https://github.com/slady/keyboard-layout-ortholinear)
 
 # Keyboard inspiration
 * [Weytec MK06](Weytec-MK06)
