@@ -3,6 +3,13 @@
 
 ![TT-60/60 keyboard](60-60-keyboard.png)
 
+## TT-60/40 keyboard
+60% form factor containing 40% form factor
+
+![60-40-10-keyboard](60-40-10-keyboard.png)
+
+![60-40-11-keyboard](60-40-11-keyboard.png)
+
 ## 60 paw
 60% keyboard layer including a NumPad located at the South Paw.
 
