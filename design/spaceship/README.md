@@ -2,10 +2,6 @@
 * [Hyper 7 inspired from Space Cadet Keyboard](http://xahlee.info/kbd/hyper_7_keyboard.html)
 * [another Hyper 7](https://www.reddit.com/r/MechanicalKeyboards/comments/r13u5z/finally_finished_my_hyper7_after_my_space_cadet/)
 
-spaceship-keyboard-layout-TT
-
-![spaceship-keyboard-layout-TT](spaceship-keyboard-layout-TT-220.png)
-
 spaceship-keyboard-layout-display-128x64
 
 ![spaceship-keyboard-layout-display-128x64](spaceship-keyboard-layout-display-128x64.png)
@@ -33,3 +29,7 @@ spaceship-keyboard-layout-display-6x128x64
 spaceship-keyboard-layout-display-long
 
 ![spaceship-keyboard-layout-display-long](spaceship-keyboard-layout-display-long.png)
+
+spaceship-keyboard-layout-TT
+
+![spaceship-keyboard-layout-TT](spaceship-keyboard-layout-TT-220.png)
