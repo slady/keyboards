@@ -33,3 +33,7 @@ spaceship-keyboard-layout-display-long
 spaceship-keyboard-layout-TT
 
 ![spaceship-keyboard-layout-TT](spaceship-keyboard-layout-TT-220.png)
+
+spaceship-keyboard-layout-display-long-keyboard-compact
+![spaceship-keyboard-layout-display-long-keyboard-compact](spaceship-keyboard-layout-display-long-keyboard-compact.png)
+
