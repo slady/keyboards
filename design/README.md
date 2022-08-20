@@ -28,6 +28,12 @@ The slimmest keyboard for those masochists who still prefer the staggered layout
 
 ![The slimmest keyboard 2](slimmest2.png)
 
+## the smallest TT 100111B
+
+The smallest usable keyboard.
+
+![TT-100111B](TT-100111B.png)
+
 ## TT-alt-macropad
 
 The alt macropad for desperate planck users xD
