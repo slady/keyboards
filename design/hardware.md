@@ -33,6 +33,7 @@ Displays
 * [TFT Touch LCD + SD reader](https://www.hwkitchen.cz/dotykovy-barevny-tft-lcd-displej-shield-3-5-palce-micro-sd-ctecka/)
   * 85,6 x 55,7 x 14,3 mm
   * [CZK 333 + 131](https://www.aliexpress.com/item/1005003776533378.html)
+  * [CZK 288 + 142](https://www.aliexpress.com/item/1005001585779587.html)
 
 * [long strip display 8.8" $85.31](https://www.aliexpress.com/item/4001115081190.html)
   * Pixel Format: 1920*480(RGB)
