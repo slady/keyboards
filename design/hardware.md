@@ -38,6 +38,7 @@ Displays
   * Pixel Format: 1920*480(RGB)
   * Size: 231.3x64.3 mm
   * Active Area: 218.88x54.72 mm
+  * alternatives: [1](https://www.aliexpress.com/item/1005002301117220.html), [2](https://www.aliexpress.com/item/1005002571752569.html), [3](https://www.aliexpress.com/item/1005002908207104.html), [4](https://www.aliexpress.com/item/4000398511748.html), [5](https://www.aliexpress.com/item/1005004154399831.html), [12.6"](https://www.aliexpress.com/item/1005003338051143.html)
 
 MCU
 ===
