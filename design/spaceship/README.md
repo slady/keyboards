@@ -41,3 +41,7 @@ spaceship-keyboard-layout-display-long-keyboard-compact
 spaceship-keyboard-layout-display-long-central
 
 ![spaceship-keyboard-layout-display-long-central](spaceship-keyboard-layout-display-long-central.png)
+
+keyboard-layout-40x2
+
+![keyboard-layout-40x2](keyboard-layout-40x2.png)
