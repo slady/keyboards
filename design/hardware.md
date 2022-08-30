@@ -35,6 +35,8 @@ Displays
   * [CZK 333 + 131](https://www.aliexpress.com/item/1005003776533378.html)
   * [CZK 288 + 142](https://www.aliexpress.com/item/1005001585779587.html)
 
+* [different small displays](https://www.aliexpress.com/item/4000210180957.html)
+
 * [long strip display 8.8" $85.31](https://www.aliexpress.com/item/4001115081190.html)
   * Pixel Format: 1920*480(RGB)
   * Size: 231.3x64.3 mm
