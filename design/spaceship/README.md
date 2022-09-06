@@ -46,6 +46,9 @@ keyboard-layout-40x2
 
 ![keyboard-layout-40x2](keyboard-layout-40x2.png)
 
-keyboard-layout-3x3_5.png
+keyboard-layout-3x3_5
 
 ![keyboard-layout-3x3_5](keyboard-layout-3x3_5.png)
+
+u1-keycaps
+![u1-keycaps](u1-keycaps.png)
