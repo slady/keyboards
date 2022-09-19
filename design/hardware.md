@@ -43,6 +43,11 @@ Displays
   * Active Area: 218.88x54.72 mm
   * alternatives: [1](https://www.aliexpress.com/item/1005002301117220.html), [2](https://www.aliexpress.com/item/1005002571752569.html), [3](https://www.aliexpress.com/item/1005002908207104.html), [4](https://www.aliexpress.com/item/4000398511748.html), [5](https://www.aliexpress.com/item/1005004154399831.html), [12.6"](https://www.aliexpress.com/item/1005003338051143.html)
 
+* [2.4" 240x320 CZK 195.62 + 44](https://www.aliexpress.com/item/4000242901022.html)
+
+* [3.5 inch 320X480 CZK 350+95](https://www.aliexpress.com/item/1005001876838787.html)
+
 MCU
 ===
 * [ESP32 US $5.43](https://www.aliexpress.com/item/1005001929935550.html)
+* [STM32F401 CZK 91+13.50](https://www.aliexpress.com/item/4000138305460.html)
