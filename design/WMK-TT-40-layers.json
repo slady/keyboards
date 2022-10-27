@@ -10,5 +10,5 @@
 ["%\n5","*\n8","(\n9","^\n6",{x:1},"_\n-","1\nEnd","2\n↓","3\nPgDn",":\n;"],
 [{x:6},"0\nIns"],
 [{y:0.25,x:7},"Insert",{x:1},"PrtSc"],
-[{x:1},"Scroll Lock",{x:7},"Enter"],
+[{x:1},"Scroll Lock"],
 [{x:2},"Caps Lock",{x:1},"Pause\nBreak","Num Lock","Menu","{\n[","}\n]","|\n\\"]
