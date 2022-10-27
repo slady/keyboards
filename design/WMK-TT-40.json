@@ -1,4 +1,4 @@
-["Q\nF1\n@","W\nF2\nvol","E\nF3\nvol-","R\nF4\nvol+","T\n\n!","Y\nPgUp\n` ~","U\n← w\n7","I\n↑\n8\nIns","O\nw →\n9","P\n\n\nPrt Sc"],
-["A\nF5\n&","S\nF6\n$\nScr Lck","D\nF7\n)","F\nF8\n#","G\n\n- _","H\nPgDn\n= +","J\n←\n4\n[ {","K\n↓\n5\n] }","L\n→\n6\n\\ |","En Shft\nBx\nDel"],
-["Z\nF9\n%","X\nF10\n*","C\nF11\n(\nCps Lk","V\nF12\n^","B\n\n' \"\nPause Break","N\nHm\n; :\nNum Lk","M\nEnd\n1\nMe .nu","<\n,\n2",">\n.\n3","?\n/"],
-["Ctrl","Win","Alt","Lower\nTab","Raise\nEsc","x","\n\n0","x","x","x"]
+["Q\nF1\n@","W\nF2\nvol","E\nF3\nvol-","R\nF4\nvol+","T\n\n!","Y\nPgUp\n` ~","U\n← w\n7","I\n↑\n8\nIns","O\nw →\n9","P\n\n' \"\nPrt Sc"],
+["A\nF5\n&","S\nF6\n$\nScr Lck","D\nF7\n)","F\nF8\n#","G","H\nPgDn\n= +","J\n←\n4","K\n↓\n5","L\n→\n6","En Shft\nBx\nDel"],
+["Z\nF9\n%","X\nF10\n*","C\nF11\n(\nCps Lk","V\nF12\n^","B\n\n\nPause Break","N\nHm\n- _\nNum Lk","M\nEnd\n1\nMe .nu","<\n,\n2\n[ {",">\n.\n3\n] }","?\n/\n; :\n\\ |"],
+["Ctrl","Win","Alt","Lower\nTab","Raise\nEsc","Shift","Spc\n\n0","x","x","x"]
