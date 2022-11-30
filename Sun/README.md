@@ -7,3 +7,6 @@ Sun Microsystems keyboard protocol converter to USB
 Connector:
 * [5PCS 8Pin Mini DIN Female Socket Connector $1.56 + $0.54](https://www.aliexpress.com/item/1005001265863686.html)
 * [5Pcs 8Pin Mini DIN Female Socket Connector $1.86 + $0.43](https://www.aliexpress.com/item/1005003346869111.html)
+
+Compose key:
+* [compose sequences](https://gitlab.freedesktop.org/xorg/lib/libx11/-/blob/master/nls/en_US.UTF-8/Compose.pre)
