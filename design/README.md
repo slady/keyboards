@@ -37,6 +37,9 @@ The smallest usable keyboard.
 ## WMK-TT-40
 ![WMK-TT-40](WMK-TT-40.png)
 
+## WMK-TT-40 (WIP)
+![WMK-TT-40-WIP](WMK-TT-40-WIP.png)
+
 ## TT-alt-macropad
 
 The alt macropad for desperate planck users xD
