@@ -50,6 +50,14 @@ keyboard-layout-3x3_5
 
 ![keyboard-layout-3x3_5](keyboard-layout-3x3_5.png)
 
+keyboard-layout-215
+
+![keyboard-layout-215](keyboard-layout-215.png)
+
+keyboard-layout-227
+
+![keyboard-layout-227](keyboard-layout-227.png)
+
 funcluster-3x5
 ![funcluster-3x5](funcluster-3x5.png)
 
