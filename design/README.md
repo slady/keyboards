@@ -3,6 +3,10 @@
 
 ![TT-60/60 keyboard](60-60-keyboard.png)
 
+## keyboard-layout-55p
+
+![keyboard-layout-55p](keyboard-layout-55p.png)
+
 ## TT-60-arrows keyboard
 60% form factor with arrows
 
