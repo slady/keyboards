@@ -58,6 +58,12 @@ keyboard-layout-227
 
 ![keyboard-layout-227](keyboard-layout-227.png)
 
+keyboard-layout-226
+
+![keyboard-layout-226](keyboard-layout-226.png)
+
+![keyboard-layout-226s](keyboard-layout-226s.png)
+
 funcluster-3x5
 ![funcluster-3x5](funcluster-3x5.png)
 
